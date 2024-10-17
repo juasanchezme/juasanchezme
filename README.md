@@ -5,14 +5,14 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<p align="center">
+
   - 🌱 Currently, I am improving my skills in Python. <a href="https://github.com/yourusername/100DaysOfPython" target="blank">#100DaysOfPython</a><br>
   - 🤖 I’m currently learning 3D printing and working on improving my designs and firmware configurations.<br>
   - 🔧 Exploring automation and control systems with PLC programming and ladder logic.<br>
   - 💻 Passionate about robotics, control engineering, and embedded systems.<br>
   - 🎯 Next step: Building projects that combine 3D printing with IoT and automation.<br>
   - 🚀 Always looking for new challenges and ways to enhance my technical skills!
-</p>
+
 
 ### **Visit My Webpage**
 ⭐️ Check out my profile at [Your Website Here](<URL>)!
