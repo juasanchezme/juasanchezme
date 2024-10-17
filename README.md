@@ -20,32 +20,43 @@
 - 🚀 Always looking for new challenges and ways to enhance my technical skills!
 
 - 📫 How to reach me **juanjosesanchez212@gmail.com**
+- 
+- 🌐 **Visit my website**: ⭐️ Check out my portfolio and projects at [Your Website Here](<URL>).
 
-<h3 align="center">Connect with me 🤝</h3>
 
+### 🛠️ Technologies and Tools:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
+  <img src="https://img.icons8.com/color/48/000000/plc.png" alt="PLC"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <!-- <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>-->
+
+</p>
+
+### 🚀 Projects:
+- **3D Printer Firmware Configuration** – Working on optimizing firmware for custom 3D printers using Klipper and Marlin. [Repo Link](https://github.com/juasanchezme/3d-printer-firmware)
+- **Control System with PLC** – Automation of a motor control system using Ladder Logic on a Siemens PLC. [Repo Link](https://github.com/juasanchezme/plc-control-system)
+- **IoT Temperature Sensor** – Building an IoT-based monitoring system using ESP32 and Python for real-time data analysis. [Repo Link](https://github.com/juasanchezme/iot-temperature-sensor)
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juasanchezme&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juasanchezme&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-s%C3%A1nchez-mej%C3%ADa-7a33b0305" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/juasanchezme" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/@Creafera" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
 </p>
 
-<!--
-**juasanchezme/juasanchezme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Let's Collaborate!
+Feel free to reach out if you'd like to collaborate on projects or if you're interested in hiring me for freelance work. I am always open to new challenges and opportunities!
