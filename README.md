@@ -13,15 +13,18 @@
 
 - 💻 Passionate about robotics, control engineering, and embedded systems.
 
-- 📊 Interested in applying data science techniques to improve system performance and predictive maintenance.
+  <!--  - 📊 Interested in applying data science techniques to improve system performance and predictive maintenance.
 
 - 🎯 Next step: Building projects that combine 3D printing with IoT and automation.
 
 - 🚀 Always looking for new challenges and ways to enhance my technical skills!
 
-- 📫 How to reach me **juanjosesanchez212@gmail.com**
-### 🌐 **Visit My Webpage** 🌐
-⭐️ Check out my portfolio and projects at [Your Website Here](<URL>)!
+
+###  **Visit My Webpage** 
+
+⭐️ Check out my profile at [Your Website Here](<URL>)!
+
+
 
 
 ### 🛠️ Technologies and Tools:
@@ -46,6 +49,7 @@
 </p>
 -->
 ### 🌐 Connect with me:
+📫 How to reach me **juanjosesanchez212@gmail.com**
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-s%C3%A1nchez-mej%C3%ADa-7a33b0305" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
