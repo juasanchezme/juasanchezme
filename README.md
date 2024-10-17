@@ -48,7 +48,7 @@
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/juasanchezme" target="_blank">
-    <img src="images/github1.png" alt="github" width="48" height="48"/> <!-- github-->
+    <img src="images/github1.png" alt="github" width="40" height="40"/> <!-- github-->
     <!--<img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="40" height="40"/> -->
   </a>
   <a href="https://www.youtube.com/@Creafera" target="_blank">
