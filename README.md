@@ -7,8 +7,8 @@
 
 
   - 🌱 Currently, I am improving my skills in Python. <a href="https://github.com/yourusername/100DaysOfPython" target="blank">#100DaysOfPython</a><br>
-  - 🤖 I’m currently learning 3D printing and working on improving my designs and firmware configurations.<br>
-  - 🔧 Exploring automation and control systems with PLC programming and ladder logic.<br>
+  - 🤖 I’m currently learning 3D printing technology.<br>
+  - 🔧 Exploring automation and control systems with PLC ladder logic.<br>
   - 💻 Passionate about robotics, control engineering, and embedded systems.<br>
   - 🎯 Next step: Building projects that combine 3D printing with IoT and automation.<br>
   - 🚀 Always looking for new challenges and ways to enhance my technical skills!
@@ -23,8 +23,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-    <img src="images/plc.png" alt="PLC" width="48" height="48"/> <!-- Tu icono de PLC -->
-  <img src="https://img.icons8.com/color/48/000000/computer.png" alt="PLC"/>
+  <img src="images/plc.png" alt="PLC" width="48" height="48"/> <!-- Tu icono de PLC -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <!-- <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>-->
 </p>
@@ -33,8 +32,10 @@
 
 ### 🚀 Projects:
 <ul>
-  <li><strong>3D Printer Firmware Configuration</strong> – Working on optimizing firmware for custom 3D printers using Klipper and Marlin. [Repo Link](https://github.com/juasanchezme/3d-printer-firmware)</li>
+  <li><strong>3D Printer Firmware Configuration</strong> – Optimizing the firmware and assembly of a 3D printer using Klipper. [Repo Link](https://github.com/juasanchezme/3d-printer-firmware)</li>
+  
   <li><strong>Control System with PLC</strong> – Automation of a motor control system using Ladder Logic on a Siemens PLC. [Repo Link](https://github.com/juasanchezme/plc-control-system)</li>
+  
   <li><strong>IoT Temperature Sensor</strong> – Building an IoT-based monitoring system using ESP32 and Python for real-time data analysis. [Repo Link](https://github.com/juasanchezme/iot-temperature-sensor)</li>
 </ul>
 
