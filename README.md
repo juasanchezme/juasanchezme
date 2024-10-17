@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-  <img src="images/plc.png" alt="PLC" width="45" height="45"/> <!-- Tu icono de PLC -->
+  <img src="images/plc.png" alt="PLC" width="40" height="40"/> <!-- Tu icono de PLC -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <!-- <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>-->
 </p>
