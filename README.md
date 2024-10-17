@@ -42,12 +42,12 @@
 <br>
 
 ### 🌐 Connect with me:
+
 <p align="center">
   📫 How to reach me: **juanjosesanchez212@gmail.com**<br><br>
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-s%C3%A1nchez-mej%C3%ADa-7a33b0305" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
- </a>
-
+  </a>
   <a href="https://www.youtube.com/@Creafera" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
