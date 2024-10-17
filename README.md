@@ -13,7 +13,7 @@
 
 - 💻 Passionate about robotics, control engineering, and embedded systems.
 
-  <!--  - 📊 Interested in applying data science techniques to improve system performance and predictive maintenance.
+<!--  - 📊 Interested in applying data science techniques to improve system performance and predictive maintenance. -->
 
 - 🎯 Next step: Building projects that combine 3D printing with IoT and automation.
 
