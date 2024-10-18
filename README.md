@@ -15,7 +15,8 @@
 
 
 ### **Visit My Webpage**
-⭐️ Check out my profile at [My Website]([<URL>](https://juanjosewebpage.vercel.app/))!
+⭐️ Check out my profile at [My Website](https://juanjosewebpage.vercel.app/)
+
 
 <br>
 
