@@ -6,7 +6,7 @@
 </a>
 
 
-  - 🌱 Currently, I am improving my skills in Python. <a href="https://github.com/yourusername/100DaysOfPython" target="blank">#100DaysOfPython</a><br>
+  - 🌱 Currently, I am improving my skills in Python. <a href="https://github.com/yourusername/100DaysOfPython](https://github.com/juasanchezme/100DaysOfPython" target="blank">#100DaysOfPython</a><br>
   - 🤖 I’m currently learning 3D printing technology.<br>
   - 🔧 Exploring automation and control systems with PLC ladder logic.<br>
   - 💻 Passionate about robotics, control engineering, and embedded systems.<br>
