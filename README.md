@@ -32,7 +32,7 @@
 
 ### 🚀 Projects:
 <ul>
-  <li><strong>3D Printer Firmware Configuration</strong> – Optimizing the firmware and assembly of a 3D printer using Klipper. [Repo Link](https://github.com/juasanchezme/3d-printer-firmware)</li>
+  <li><strong>3D Printer Firmware Configuration</strong> – Optimizing the firmware and assembly of a 3D printer using Klipper. [Repo Link](https://github.com/juasanchezme/3d-printer)</li>
   
   <li><strong>Control System with PLC</strong> – Automation of a motor control system using Ladder Logic on a Siemens PLC. [Repo Link](https://github.com/juasanchezme/plc-control-system)</li>
   
