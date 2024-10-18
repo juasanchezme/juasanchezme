@@ -1,57 +1,45 @@
-<h1 align="center">Hi 👋, I'm Juan José</h1>
+# Hi 👋, I'm Juan José
+
 <h3 align="center">A passionate control engineering student</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400" height="300">
 
 ## "Festina lente" 🏛️
 
-*"Make haste slowly"* is a phrase I deeply resonate with. While it's important to make progress, it’s equally crucial to take the necessary time to do things right. Each small step, when done with care and dedication, brings us closer to the goal. This is exactly how I approach my journey as a control engineering student and technology enthusiast!
-
+*"Make haste slowly"* is a phrase I deeply resonate with. While it's important to make progress, it's equally crucial to take the necessary time to do things right. Each small step, when done with care and dedication, brings us closer to the goal. This is exactly how I approach my journey as a control engineering student and technology enthusiast!
 
 ## 🚀 About Me
 
-  - 🌱 Currently, I am improving my skills in Python. <a href="https://github.com/juasanchezme/100DaysOfPython" target="_blank">#100DaysOfPython</a><br>
-  - 🤖 I’m currently learning 3D printing technology.<br>
-  - 🔧 Exploring automation and control systems with PLC ladder logic.<br>
-  - 💻 Passionate about robotics, control engineering, and embedded systems.<br>
-  - 🎯 Next step: Building projects that combine 3D printing with IoT and automation.<br>
-  - 🚀 Always looking for new challenges and ways to enhance my technical skills!
-
+- 🌱 Currently, I am improving my skills in Python. [#100DaysOfPython](https://github.com/juasanchezme/100DaysOfPython)
+- 🤖 I'm currently learning 3D printing technology.
+- 🔧 Exploring automation and control systems with PLC ladder logic.
+- 💻 Passionate about robotics, control engineering, and embedded systems.
+- 🎯 Next step: Building projects that combine 3D printing with IoT and automation.
+- 🚀 Always looking for new challenges and ways to enhance my technical skills!
 
 ### **Visit My Webpage**
+
 ⭐️ Check out my profile at [My Website](https://juanjosewebpage.vercel.app/)
 
-
-<br>
-
 ### 🛠️ Technologies and Tools:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-  <img src="images/plc.png" alt="PLC" width="42" height="42"/> <!-- Tu icono de PLC -->
+  <img src="images/plc.png" alt="PLC" width="42" height="42"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <!-- <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>-->
 </p>
 
-<br>
-
 ### 🚀 Projects:
-<ul>
-  <li><strong>3D Printer Firmware Configuration</strong> – Optimizing the firmware and assembly of a 3D printer using Klipper. [Repo Link](https://github.com/juasanchezme/3d-printer)</li>
-  
-  <li><strong>Control System with PLC</strong> – Automation of a motor control system using Ladder Logic on a Siemens PLC. [Repo Link](https://github.com/juasanchezme/plc-control-system)</li>
-  
-  <li><strong>IoT Temperature Sensor</strong> – Building an IoT-based monitoring system using ESP32 and Python for real-time data analysis. [Repo Link](https://github.com/juasanchezme/iot-temperature-sensor)</li>
-</ul>
 
-<br>
+- **3D Printer Firmware Configuration** – Optimizing the firmware and assembly of a 3D printer using Klipper. [Repo Link](https://github.com/juasanchezme/3d-printer)
+- **Control System with PLC** – Automation of a motor control system using Ladder Logic on a Siemens PLC. [Repo Link](https://github.com/juasanchezme/plc-control-system)
+- **IoT Temperature Sensor** – Building an IoT-based monitoring system using ESP32 and Python for real-time data analysis. [Repo Link](https://github.com/juasanchezme/iot-temperature-sensor)
 
 ### 🌐 Connect with me:
 
 <p align="center">
-  📫 How to reach me: **juanjosesanchez212@gmail.com**<br><br>
+  📫 How to reach me: <strong>juanjosesanchez212@gmail.com</strong><br><br>
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-s%C3%A1nchez-mej%C3%ADa-7a33b0305" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -60,7 +48,6 @@
   </a>
 </p>
 
-<br>
-
 ### 🔥 Let's Collaborate!
+
 Feel free to reach out if you'd like to collaborate on projects or if you're interested in hiring me for freelance work. I am always open to new challenges and opportunities!
