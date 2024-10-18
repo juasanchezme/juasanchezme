@@ -6,7 +6,7 @@
 
 ## "Festina lente" 🏛️
 
-*"Make haste slowly"* is a phrase I deeply resonate with. While it's important to make progress, it's equally crucial to take the necessary time to do things right. Each small step, when done with care and dedication, brings us closer to the goal. This is exactly how I approach my journey as a control engineering student and technology enthusiast!
+*"Make haste slowly"* encapsulates my approach to learning and progress. I believe in steady advancement, taking time to do things right. This philosophy guides my journey as a control engineering student and tech enthusiast, where each careful step brings me closer to my goals.
 
 ## 🚀 About Me
 
