@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate control engineering student</h3>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400" height="280">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="350" height="250">
 
 ## "Festina lente" 🏛️
 
