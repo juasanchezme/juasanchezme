@@ -5,6 +5,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+## "Festina lente" 🏛️
+
+*"Make haste slowly"* is a phrase I deeply resonate with. While it's important to make progress, it’s equally crucial to take the necessary time to do things right. Each small step, when done with care and dedication, brings us closer to the goal. This is exactly how I approach my journey as a control engineering student and technology enthusiast!
+
+---
+## 🚀 About Me
 
   - 🌱 Currently, I am improving my skills in Python. <a href="https://github.com/juasanchezme/100DaysOfPython" target="_blank">#100DaysOfPython</a><br>
   - 🤖 I’m currently learning 3D printing technology.<br>
